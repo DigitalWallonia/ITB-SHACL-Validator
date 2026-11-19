@@ -1,0 +1,5 @@
+**
+!Dockerfile
+!validator.jar
+!resources/
+!resources/**
